@@ -5,7 +5,7 @@
 / Assignment 1
 / ITC 230 Advanced JavaScript
 / Seattle Central College
-/ June 13
+/ June 19
 /
 / Description:
 /
